@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import certifi
 
 # EMAIL INFORMATION
-email_sender = 'karthik92sankaran@gmail.com'
-email_receiver = 'karthik92sankaran@gmail.com'
+email_sender = 'input email here'
+email_receiver = 'input email here'
 email_password = 'zblepfdbiiqryxtm'
 subject = 'Game Alert'
 body = 'GANESH INCOMING GOAL!'
